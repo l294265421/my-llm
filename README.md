@@ -1,5 +1,5 @@
-# llm-course
-Large language model course
+# My LLM
+All about large language models
 
 ## My Practice
 - [try-large-models](https://github.com/l294265421/try-large-models) try large models

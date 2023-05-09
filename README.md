@@ -390,5 +390,4 @@ All about large language models
 - [影响PPO算法性能的10个关键技巧（附PPO算法简洁Pytorch实现）](https://zhuanlan.zhihu.com/p/512327050)
 
 ## Related Project
-- [try-large-models](https://github.com/l294265421/try-large-models)
 - [open-llms](https://github.com/eugeneyan/open-llms) A list of open LLMs available for commercial use. 

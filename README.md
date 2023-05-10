@@ -235,6 +235,10 @@ All about large language models
 #### RL
 - 2017-Proximal Policy Optimization Algorithms [[paper](./papers/fine-tune/methods/rl/2017-Proximal%20Policy%20Optimization%20Algorithms.pdf)]
   - [Why is the log probability replaced with the importance sampling in the loss function?](https://ai.stackexchange.com/questions/7685/why-is-the-log-probability-replaced-with-the-importance-sampling-in-the-loss-fun)
+- 2016-Asynchronous methods for deep reinforcement learning [[paper](./papers/fine-tune/methods/rl/2016-Asynchronous%20methods%20for%20deep%20reinforcement%20learning.pdf)]
+- 2015-High-dimensional continuous control using generalized advantage estimation [[paper](./papers/fine-tune/methods/rl/2015-High-dimensional%20continuous%20control%20using%20generalized%20advantage%20estimation.pdf)]
+- 2015-mlr-Trust Region Policy Optimization [[paper](./papers/fine-tune/methods/rl/2015-mlr-Trust%20Region%20Policy%20Optimization.pdf)]
+
 ### peft 
 - 2021-LoRA- Low-Rank Adaptation of Large Language Models [[paper](./papers/fine-tune/methods/peft/2021-LoRA-%20Low-Rank%20Adaptation%20of%20Large%20Language%20Models.pdf)]
 

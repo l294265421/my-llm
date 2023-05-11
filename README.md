@@ -57,6 +57,7 @@ All about large language models
     - based on the datasets used to train LaMDA and GLaM
 - PaLM 2
   - [Blog](https://ai.google/discover/palm2)
+  - [PaLM 2 Technical Report](https://ai.google/static/documents/palm2techreport.pdf)
 - OPT
   - [Paper](./papers/pre-train/models/2022-OPT-%20Open%20Pre-trained%20Transformer%20Language%20Models.pdf)
   - Architecture

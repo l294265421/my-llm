@@ -55,6 +55,8 @@ All about large language models
   - Datasets
     - a mixture of filtered webpages, books, Wikipedia, news articles, source code, and social media conversations
     - based on the datasets used to train LaMDA and GLaM
+- PaLM 2
+  - [Blog](https://ai.google/discover/palm2)
 - OPT
   - [Paper](./papers/pre-train/models/2022-OPT-%20Open%20Pre-trained%20Transformer%20Language%20Models.pdf)
   - Architecture

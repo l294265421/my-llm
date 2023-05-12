@@ -6,6 +6,7 @@ All about large language models
 - [my-alpaca](https://github.com/l294265421/my-alpaca) reproduce alpaca
 - [multi-turn-alpaca](https://github.com/l294265421/multi-turn-alpaca) train alpaca with multi-turn dialogue datasets
 - [alpaca-rlhf](https://github.com/l294265421/alpaca-rlhf) train multi-turn alpaca with RLHF (Reinforcement Learning with Human Feedback)
+- [my-autocrit](https://github.com/l294265421/my-autocrit) experiments using autocrit
 
 ## Pre-train
 ### Models
@@ -54,6 +55,9 @@ All about large language models
   - Datasets
     - a mixture of filtered webpages, books, Wikipedia, news articles, source code, and social media conversations
     - based on the datasets used to train LaMDA and GLaM
+- PaLM 2
+  - [Blog](https://ai.google/discover/palm2)
+  - [PaLM 2 Technical Report](https://ai.google/static/documents/palm2techreport.pdf)
 - OPT
   - [Paper](./papers/pre-train/models/2022-OPT-%20Open%20Pre-trained%20Transformer%20Language%20Models.pdf)
   - Architecture
@@ -239,10 +243,16 @@ All about large language models
 - 2015-High-dimensional continuous control using generalized advantage estimation [[paper](./papers/fine-tune/methods/rl/2015-High-dimensional%20continuous%20control%20using%20generalized%20advantage%20estimation.pdf)]
 - 2015-mlr-Trust Region Policy Optimization [[paper](./papers/fine-tune/methods/rl/2015-mlr-Trust%20Region%20Policy%20Optimization.pdf)]
 
-### peft 
+##### Reward Modeling
+- 2022-Scaling Laws for Reward Model Overoptimization [[paper](./papers/fine-tune/methods/rl/reward_modeling/2022-Scaling%20Laws%20for%20Reward%20Model%20Overoptimization.pdf)]
+- autocrit
+  - [GitHub](https://github.com/CarperAI/autocrit/tree/contrastive-scalar-rm)
+  - reward-modeling [GitHub](https://github.com/Dahoas/reward-modeling)
+
+#### peft 
 - 2021-LoRA- Low-Rank Adaptation of Large Language Models [[paper](./papers/fine-tune/methods/peft/2021-LoRA-%20Low-Rank%20Adaptation%20of%20Large%20Language%20Models.pdf)]
 
-### align
+#### align
 - 2023-RRHF: Rank Responses to Align Language Models with Human Feedback without tears [[paper](./papers/fine-tune/methods/align/2023-RRHF-%20Rank%20Responses%20to%20Align%20Language%20Models%20with%20Human%20Feedback%20without%20tears.pdf)] [[code](https://github.com/GanjinZero/RRHF)]
 - 2022-Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback [[paper](./papers/fine-tune/methods/align/2022-Training%20a%20Helpful%20and%20Harmless%20Assistant%20with%20Reinforcement%20Learning%20from%20Human%20Feedback.pdf)]
 - 2022-Training language models to follow instructions with human feedback [[paper](./papers/fine-tune/methods/align/2022-Training%20language%20models%20to%20follow%20instructions%20with%20human%20feedback.pdf)]

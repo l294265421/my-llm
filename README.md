@@ -402,6 +402,7 @@ All about large language models
 - [如何正确复现 Instruct GPT / RLHF?](https://zhuanlan.zhihu.com/p/622134699)
 - [ChatGPT在单个NLP数据集任务上比SOTA有多大提升？](https://www.zhihu.com/question/595938881)
 - [影响PPO算法性能的10个关键技巧（附PPO算法简洁Pytorch实现）](https://zhuanlan.zhihu.com/p/512327050)
+- [灌水新方向 偏好强化学习概述](https://zhuanlan.zhihu.com/p/622056740?utm_source=wechat_session&utm_medium=social&utm_oi=556103293550534656)
 
 ## Related Project
 - [open-llms](https://github.com/eugeneyan/open-llms) A list of open LLMs available for commercial use. 

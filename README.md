@@ -130,6 +130,7 @@ All about large language models
   - [Transformer升级之路：7、长度外推性与局部注意力](https://spaces.ac.cn/archives/9431)
 - Paper
   - 2023-Scaling Transformer to 1M tokens and beyond with RMT [[paper](./papers/pre-train/methods/max_sequence_length/2023-Scaling%20Transformer%20to%201M%20tokens%20and%20beyond%20with%20RMT.pdf)]
+  - 2022-Parallel Context Windows Improve In-Context Learning of Large Language Models [[paper](./papers/pre-train/methods/max_sequence_length/2022-Parallel%20Context%20Windows%20Improve%20In-Context%20Learning%20of%20Large%20Language%20Models.pdf)]
 
 #### Position
 - Rotary

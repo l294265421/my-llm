@@ -332,6 +332,7 @@ All about large language models
 - 2023-Towards Better Instruction Following Language Models for Chinese- Investigating the Impact of Training Data and Evaluation [paper](./papers/evaluation/2023-Towards%20Better%20Instruction%20Following%20Language%20Models%20for%20Chinese-%20Investigating%20the%20Impact%20of%20Training%20Data%20and%20Evaluation.pdf)
 - [PandaLM](https://github.com/WeOpenML/PandaLM)
 - [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness)
+- [BIG-bench](https://github.com/google/BIG-bench)
 
 ### Aspects
 - helpfulness

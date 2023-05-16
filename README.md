@@ -252,7 +252,7 @@ All about large language models
 - autocrit
   - [GitHub](https://github.com/CarperAI/autocrit/tree/contrastive-scalar-rm)
   - reward-modeling [GitHub](https://github.com/Dahoas/reward-modeling)
-- 2023-On The Fragility of Learned Reward Functions [[paper](https://arxiv.org/abs/2301.03652)]
+- 2023-On The Fragility of Learned Reward Functions [[paper](./papers/fine-tune/methods/rl/reward_modeling/2023-On%20The%20Fragility%20of%20Learned%20Reward%20Functions.pdf)]
 
 #### peft 
 - 2021-LoRA- Low-Rank Adaptation of Large Language Models [[paper](./papers/fine-tune/methods/peft/2021-LoRA-%20Low-Rank%20Adaptation%20of%20Large%20Language%20Models.pdf)]
@@ -269,6 +269,7 @@ All about large language models
 - 2019-Fine-Tuning Language Models from Human Preferences [[paper](./papers/fine-tune/methods/align/2019-Fine-Tuning%20Language%20Models%20from%20Human%20Preferences.pdf)]
 - 2018-Scalable agent alignment via reward modeling: a research direction [[paper](./papers/fine-tune/methods/align/2018-Scalable%20agent%20alignment%20via%20reward%20modeling-%20a%20research%20direction.pdf)]
 - Reinforcement Learning for Language Models [Blog](https://gist.github.com/yoavg/6bff0fecd65950898eba1bb321cfbd81)
+- 2017-nips-Deep reinforcement learning from human preferences [[paper](./papers/fine-tune/methods/align/2017-nips-Deep%20reinforcement%20learning%20from%20human%20preferences.pdf)]
 
 ### Other
 - 2022-naacl-MetaICL- Learning to Learn In Context [[paper](./papers/fine-tune/methods/other/2022-naacl-MetaICL-%20Learning%20to%20Learn%20In%20Context.pdf)]

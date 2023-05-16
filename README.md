@@ -124,6 +124,9 @@ All about large language models
 - WeLM
   - [Paper](./papers/pre-train/models/2022-WeLM-%20A%20Well-Read%20Pre-trained%20Language%20Model%20for%20Chinese.pdf)
 
+### Survey
+- 2023-A Survey of Large Language Models [[paper](https://arxiv.org/abs/2303.18223)]
+
 ### Methods
 #### Max Sequence Length
 - Blog
@@ -249,6 +252,7 @@ All about large language models
 - autocrit
   - [GitHub](https://github.com/CarperAI/autocrit/tree/contrastive-scalar-rm)
   - reward-modeling [GitHub](https://github.com/Dahoas/reward-modeling)
+- 2023-On The Fragility of Learned Reward Functions [[paper](https://arxiv.org/abs/2301.03652)]
 
 #### peft 
 - 2021-LoRA- Low-Rank Adaptation of Large Language Models [[paper](./papers/fine-tune/methods/peft/2021-LoRA-%20Low-Rank%20Adaptation%20of%20Large%20Language%20Models.pdf)]
@@ -258,6 +262,7 @@ All about large language models
 - 2022-Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback [[paper](./papers/fine-tune/methods/align/2022-Training%20a%20Helpful%20and%20Harmless%20Assistant%20with%20Reinforcement%20Learning%20from%20Human%20Feedback.pdf)]
 - 2022-Training language models to follow instructions with human feedback [[paper](./papers/fine-tune/methods/align/2022-Training%20language%20models%20to%20follow%20instructions%20with%20human%20feedback.pdf)]
   - [GitHub](https://github.com/anthropics/hh-rlhf)
+- 2022-Red teaming language models to reduce harms: Methods, scaling behaviors, and lessons learned [[paper](https://arxiv.org/abs/2209.07858)]
 - 2022-LaMDA- Language Models for Dialog Applications [Paper](./papers/pre-train/models/2022-LaMDA-%20Language%20Models%20for%20Dialog%20Applications.pdf)
 - 2021-A general language assistant as a laboratory for alignment
 - 2020-nips-Learning to summarize from human feedback [[paper](./papers/fine-tune/methods/align/2020-nips-Learning%20to%20summarize%20from%20human%20feedback.pdf)]

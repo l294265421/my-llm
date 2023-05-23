@@ -341,6 +341,8 @@ All about large language models
 - [PandaLM](https://github.com/WeOpenML/PandaLM)
 - [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness)
 - [BIG-bench](https://github.com/google/BIG-bench)
+- 2023-HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[paper](https://arxiv.org/pdf/2305.11747v2.pdf)]
+- 2023-C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models [[paper](https://arxiv.org/abs/2305.08322)]
 
 ### Aspects
 - helpfulness

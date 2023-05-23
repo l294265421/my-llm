@@ -388,6 +388,7 @@ All about large language models
 
 ## Traditional Nlp Tasks
 - 2023-AnnoLLM- Making Large Language Models to Be Better Crowdsourced Annotators [[paper](./papers/traditional_nlp_tasks/2023-AnnoLLM-%20Making%20Large%20Language%20Models%20to%20Be%20Better%20Crowdsourced%20Annotators.pdf)]
+- 2022-Super-NaturalInstructions: Generalization via Declarative Instructions on 1600+ NLP Tasks [[paper](https://arxiv.org/abs/2204.07705)]
 
 ## Related Topics
 ### Neural Text Generation

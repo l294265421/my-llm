@@ -7,6 +7,7 @@ All about large language models
 - [alpaca-rlhf](https://github.com/l294265421/alpaca-rlhf) train multi-turn alpaca with RLHF (Reinforcement Learning with Human Feedback) based on DeepSpeed Chat
 - [my-autocrit](https://github.com/l294265421/my-autocrit) experiments using autocrit
 - [try-large-models](https://github.com/l294265421/try-large-models) try large models
+- [my-rl](https://github.com/l294265421/my-rl) learn reinforcement learning using tianshou
 
 ## Pre-train
 ### Models

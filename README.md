@@ -330,6 +330,12 @@ All about large language models
 
 ### For Reward Model
 
+### For Evaluation
+- [SuperCLUE：中文通用大模型综合性测评基准](https://www.cluebenchmarks.com/superclue.html)
+- [Open LLMs benchmark大模型能力评测标准计划](https://mp.weixin.qq.com/s/oGo9GJUeUn09mOpUutToJw)
+- 中文医疗大模型评测基准-PromptCBLUE
+- GLUE、SuperGLUE、SQuAD、CoQA、WMT、LAMBADA、ROUGE、智源指数CUGE
+
 ### Methods
 - 2022-SELF-INSTRUCT- Aligning Language Model with Self Generated Instructions [[paper](./papers/dataset/methods/2022-SELF-INSTRUCT-%20Aligning%20Language%20Model%20with%20Self%20Generated%20Instructions.pdf)]
 
@@ -343,6 +349,7 @@ All about large language models
 - [BIG-bench](https://github.com/google/BIG-bench)
 - 2023-HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[paper](https://arxiv.org/pdf/2305.11747v2.pdf)]
 - 2023-C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models [[paper](https://arxiv.org/abs/2305.08322)]
+- 2023-Safety Assessment of Chinese Large Language Models [[paper](https://arxiv.org/pdf/2304.10436.pdf)]
 
 ### Aspects
 - helpfulness

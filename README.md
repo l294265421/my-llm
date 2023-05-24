@@ -334,7 +334,7 @@ All about large language models
 - [SuperCLUE：中文通用大模型综合性测评基准](https://www.cluebenchmarks.com/superclue.html)
 - [Open LLMs benchmark大模型能力评测标准计划](https://mp.weixin.qq.com/s/oGo9GJUeUn09mOpUutToJw)
 - 中文医疗大模型评测基准-PromptCBLUE
-- GLUE、SuperGLUE、SQuAD、CoQA、WMT、LAMBADA、ROUGE、智源指数CUGE
+- GLUE、SuperGLUE、SQuAD、CoQA、WMT、LAMBADA、ROUGE、智源指数CUGE、MMLU、Hellaswag、OpenBookQA、ARC、TriviaQA、TruthfulQA
 
 ### Methods
 - 2022-SELF-INSTRUCT- Aligning Language Model with Self Generated Instructions [[paper](./papers/dataset/methods/2022-SELF-INSTRUCT-%20Aligning%20Language%20Model%20with%20Self%20Generated%20Instructions.pdf)]

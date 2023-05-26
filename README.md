@@ -268,6 +268,7 @@ All about large language models
 - 2022-Red teaming language models to reduce harms: Methods, scaling behaviors, and lessons learned [[paper](https://arxiv.org/abs/2209.07858)]
 - 2022-LaMDA- Language Models for Dialog Applications [[Paper](./papers/pre-train/models/2022-LaMDA-%20Language%20Models%20for%20Dialog%20Applications.pdf)]
 - 2021-A general language assistant as a laboratory for alignment [[paper](./papers/fine-tune/methods/align/2021-A%20general%20language%20assistant%20as%20a%20laboratory%20for%20alignment.pdf)]
+- 2021-Ethical and social risks of harm from language models [[paper](./papers/fine-tune/methods/align/2021-Ethical%20and%20social%20risks%20of%20harm%20from%20language%20models.pdf)]
 - 2020-nips-Learning to summarize from human feedback [[paper](./papers/fine-tune/methods/align/2020-nips-Learning%20to%20summarize%20from%20human%20feedback.pdf)]
 - 2019-Fine-Tuning Language Models from Human Preferences [[paper](./papers/fine-tune/methods/align/2019-Fine-Tuning%20Language%20Models%20from%20Human%20Preferences.pdf)]
 - 2018-Scalable agent alignment via reward modeling: a research direction [[paper](./papers/fine-tune/methods/align/2018-Scalable%20agent%20alignment%20via%20reward%20modeling-%20a%20research%20direction.pdf)]

@@ -418,6 +418,7 @@ All about large language models
 ### Quantization
 - 2020-Integer Quantization for Deep Learning Inference Principles and Empirical Evaluation [[paper](./papers/related-topics/quantization/2020-Integer%20Quantization%20for%20Deep%20Learning%20Inference%20Principles%20and%20Empirical%20Evaluation.pdf)]
 - 2023-ICLR-GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers [[paer](./papers/related-topics/quantization/2023-ICLR-GPTQ-%20Accurate%20Post-Training%20Quantization%20for%20Generative%20Pre-trained%20Transformers.pdf)]
+- 2023-QLORA: Efficient Finetuning of Quantized LLMs [[paper](https://arxiv.org/pdf/2305.14314.pdf)]
 
 ## Other
 - [如何为GPT/LLM模型添加额外知识？](https://www.zhihu.com/question/591935281/answer/2979220793)

@@ -138,7 +138,7 @@ All about large language models
 
 #### Position
 - Rotary
-- ALiBi
+- ALiBi [[paper](./papers/pre-train/methods/position/2022-ICLR-Train%20short,%20test%20long-%20Attention%20with%20linear%20biases%20enables%20input%20length%20extrapolation.pdf)]
 - Survey
   - [让研究人员绞尽脑汁的Transformer位置编码](https://zhuanlan.zhihu.com/p/352898810)
 

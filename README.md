@@ -134,6 +134,7 @@ All about large language models
   - [Transformer升级之路：7、长度外推性与局部注意力](https://spaces.ac.cn/archives/9431)
 - Paper
   - 2023-Scaling Transformer to 1M tokens and beyond with RMT [[paper](./papers/pre-train/methods/max_sequence_length/2023-Scaling%20Transformer%20to%201M%20tokens%20and%20beyond%20with%20RMT.pdf)]
+    - 2022-NIPS-Recurrent Memory Transformer [[paper](./papers/pre-train/methods/max_sequence_length/2022-NIPS-Recurrent%20Memory%20Transformer.pdf)]
   - 2022-Parallel Context Windows Improve In-Context Learning of Large Language Models [[paper](./papers/pre-train/methods/max_sequence_length/2022-Parallel%20Context%20Windows%20Improve%20In-Context%20Learning%20of%20Large%20Language%20Models.pdf)]
 
 #### Position
@@ -418,7 +419,7 @@ All about large language models
 ### Quantization
 - 2020-Integer Quantization for Deep Learning Inference Principles and Empirical Evaluation [[paper](./papers/related-topics/quantization/2020-Integer%20Quantization%20for%20Deep%20Learning%20Inference%20Principles%20and%20Empirical%20Evaluation.pdf)]
 - 2023-ICLR-GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers [[paer](./papers/related-topics/quantization/2023-ICLR-GPTQ-%20Accurate%20Post-Training%20Quantization%20for%20Generative%20Pre-trained%20Transformers.pdf)]
-- 2023-QLORA: Efficient Finetuning of Quantized LLMs [[paper](https://arxiv.org/pdf/2305.14314.pdf)]
+- 2023-QLORA: Efficient Finetuning of Quantized LLMs [[paper](./papers/related-topics/quantization/2023-QLORA-%20Efficient%20Finetuning%20of%20Quantized%20LLMs.pdf)]
 
 ## Other
 - [如何为GPT/LLM模型添加额外知识？](https://www.zhihu.com/question/591935281/answer/2979220793)

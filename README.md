@@ -9,6 +9,9 @@ All about large language models
 - [try-large-models](https://github.com/l294265421/try-large-models) try large models
 - [my-rl](https://github.com/l294265421/my-rl) learn reinforcement learning using tianshou
 
+## My Articles
+- [ChatGPT-Techniques-Introduction-for-Everyone](https://github.com/l294265421/ChatGPT-Techniques-Introduction-for-Everyone)
+
 ## Pre-train
 ### Models
 - T5
@@ -430,6 +433,5 @@ All about large language models
 - [为什么说大模型训练很难？](https://www.zhihu.com/question/498271491)
 
 ## Related Project
-- [open-llms](https://github.com/eugeneyan/open-llms) A list of open LLMs available for commercial use. 
-- [ChatGPT-Techniques-Introduction-for-Everyone](https://github.com/l294265421/ChatGPT-Techniques-Introduction-for-Everyone)
+- [open-llms](https://github.com/eugeneyan/open-llms) A list of open LLMs available for commercial use.
 - [safe-rlhf](https://github.com/PKU-Alignment/safe-rlhf)

@@ -357,6 +357,7 @@ All about large language models
 - 2023-HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models [[paper](https://arxiv.org/pdf/2305.11747v2.pdf)]
 - 2023-C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models [[paper](https://arxiv.org/abs/2305.08322)]
 - 2023-Safety Assessment of Chinese Large Language Models [[paper](https://arxiv.org/pdf/2304.10436.pdf)]
+- 2022-Holistic Evaluation of Language Models [[paper](https://arxiv.org/pdf/2211.09110.pdf)]
 
 ### Aspects
 - helpfulness

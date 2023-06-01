@@ -263,6 +263,7 @@ All about large language models
 - 2021-LoRA- Low-Rank Adaptation of Large Language Models [[paper](./papers/fine-tune/methods/peft/2021-LoRA-%20Low-Rank%20Adaptation%20of%20Large%20Language%20Models.pdf)]
 
 #### align
+- 2023-Let’s Verify Step by Step [[paper](./papers/fine-tune/methods/align/2023-Let’s%20Verify%20Step%20by%20Step.pdf)]
 - 2023-The False Promise of Imitating Proprietary LLMs [[paper](./papers/fine-tune/methods/align/2023-The%20False%20Promise%20of%20Imitating%20Proprietary%20LLMs.pdf)]
 - 2023-AlpacaFarm: A Simulation Framework for Methods that Learn from Human Feedback [[paper](./papers/fine-tune/methods/align/2023-AlpacaFarm-%20A%20Simulation%20Framework%20for%20Methods%20that%20Learn%20from%20Human%20Feedback.pdf)]
 - 2023-LIMA- Less Is More for Alignment [[paper](./papers/fine-tune/methods/align/2023-LIMA-%20Less%20Is%20More%20for%20Alignment.pdf)]

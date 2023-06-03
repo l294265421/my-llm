@@ -393,6 +393,8 @@ All about large language models
   - [Paper](./papers/2023-MiniGPT_4.pdf)
 - ShareGPT
   - [GitHub](https://github.com/domeccleston/sharegpt)
+- character ai
+  - [Site](https://beta.character.ai/)
 
 ## Tools
 - [DeepSpeed](https://github.com/microsoft/DeepSpeed)

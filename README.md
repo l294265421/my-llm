@@ -408,6 +408,9 @@ All about large language models
 - 2023-AnnoLLM- Making Large Language Models to Be Better Crowdsourced Annotators [[paper](./papers/traditional_nlp_tasks/2023-AnnoLLM-%20Making%20Large%20Language%20Models%20to%20Be%20Better%20Crowdsourced%20Annotators.pdf)]
 - 2022-Super-NaturalInstructions: Generalization via Declarative Instructions on 1600+ NLP Tasks [[paper](https://arxiv.org/abs/2204.07705)]
 
+### Sentiment Analysis
+- 2023-Sentiment Analysis in the Era of Large Language Models- A Reality Check [[Paper](./papers/traditional_nlp_tasks/sentiment_analysis/2023-Sentiment%20Analysis%20in%20the%20Era%20of%20Large%20Language%20Models-%20A%20Reality%20Check.pdf)] [[GitHub](https://github.com/DAMO-NLP-SG/LLM-Sentiment)]
+
 ## Related Topics
 ### Neural Text Generation
 - 2020-ICLR-Neural text generation with unlikelihood training [[paper](./papers/related-topics/neural_text_generation/2020-ICLR-Neural%20text%20generation%20with%20unlikelihood%20training.pdf)]

@@ -395,6 +395,9 @@ All about large language models
   - [GitHub](https://github.com/domeccleston/sharegpt)
 - character ai
   - [Site](https://beta.character.ai/)
+- LLaVA
+  - [Paper](./papers/2023-Visual%20Instruction%20Tuning.pdf)
+  - [Site](https://llava-vl.github.io/)
 
 ## Tools
 - [DeepSpeed](https://github.com/microsoft/DeepSpeed)

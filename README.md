@@ -243,6 +243,9 @@ All about large language models
 #### Recommendation
 - 2023-Recalpaca: Low-rank llama instruct-tuning for recommendation
 
+#### Other
+- 2023-A Survey of Domain Specialization for Large Language Models [[paper](https://arxiv.org/pdf/2305.18703.pdf)]
+
 ### Methods
 
 #### RL
@@ -268,6 +271,7 @@ All about large language models
 - 2023-AlpacaFarm: A Simulation Framework for Methods that Learn from Human Feedback [[paper](./papers/fine-tune/methods/align/2023-AlpacaFarm-%20A%20Simulation%20Framework%20for%20Methods%20that%20Learn%20from%20Human%20Feedback.pdf)]
 - 2023-LIMA- Less Is More for Alignment [[paper](./papers/fine-tune/methods/align/2023-LIMA-%20Less%20Is%20More%20for%20Alignment.pdf)]
 - 2023-RRHF: Rank Responses to Align Language Models with Human Feedback without tears [[paper](./papers/fine-tune/methods/align/2023-RRHF-%20Rank%20Responses%20to%20Align%20Language%20Models%20with%20Human%20Feedback%20without%20tears.pdf)] [[code](https://github.com/GanjinZero/RRHF)]
+- 2022-Solving math word problems with process-and outcome-based feedback [[paper](https://arxiv.org/pdf/2211.14275.pdf)]
 - 2022-Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback [[paper](./papers/fine-tune/methods/align/2022-Training%20a%20Helpful%20and%20Harmless%20Assistant%20with%20Reinforcement%20Learning%20from%20Human%20Feedback.pdf)]
 - 2022-Training language models to follow instructions with human feedback [[paper](./papers/fine-tune/methods/align/2022-Training%20language%20models%20to%20follow%20instructions%20with%20human%20feedback.pdf)]
   - [GitHub](https://github.com/anthropics/hh-rlhf)

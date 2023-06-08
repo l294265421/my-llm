@@ -398,6 +398,8 @@ All about large language models
 - LLaVA
   - [Paper](./papers/2023-Visual%20Instruction%20Tuning.pdf)
   - [Site](https://llava-vl.github.io/)
+- Video-LLaMA
+  - [Paper](./papers/2023-Video-LLaMA-%20An%20Instruction-tuned%20Audio-Visual%20Language%20Model%20for%20Video%20Understanding.pdf)
 
 ## Tools
 - [DeepSpeed](https://github.com/microsoft/DeepSpeed)

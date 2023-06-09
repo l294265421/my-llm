@@ -419,6 +419,9 @@ All about large language models
 
 ### Sentiment Analysis
 - 2023-Sentiment Analysis in the Era of Large Language Models- A Reality Check [[Paper](./papers/traditional_nlp_tasks/sentiment_analysis/2023-Sentiment%20Analysis%20in%20the%20Era%20of%20Large%20Language%20Models-%20A%20Reality%20Check.pdf)] [[GitHub](https://github.com/DAMO-NLP-SG/LLM-Sentiment)]
+- 2023-Can chatgpt understand too? A comparative study on chatgpt and fine-tuned BERT
+- 2023-Is chatgpt a good sentiment analyzer? A preliminary study
+- 2023-Llms to the moon? reddit market sentiment analysis with large language models
 
 ## Related Topics
 ### Neural Text Generation

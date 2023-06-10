@@ -329,8 +329,8 @@ All about large language models
   - [GitHub1](https://github.com/NLPxiaoxu/LLM-FineTune)
 - 金融数据
   - [FinNLP-GitHub](https://github.com/AI4Finance-Foundation/FinNLP)
-  - [SmoothNLP 金融文本数据集(公开) | Public Financial Datasets for NLP Researches](https://github.com/smoothnlp/FinancialDatasets)  
-
+  - [SmoothNLP 金融文本数据集(公开) | Public Financial Datasets for NLP Researches](https://github.com/smoothnlp/FinancialDatasets)
+  
 ### For SFT
 - ChatAlpaca
   - [GitHub](https://github.com/cascip/ChatAlpaca)
@@ -349,6 +349,7 @@ All about large language models
 - GLUE、SuperGLUE、SQuAD、CoQA、WMT、LAMBADA、ROUGE、智源指数CUGE、MMLU、Hellaswag、OpenBookQA、ARC、TriviaQA、TruthfulQA
 
 ### Methods
+- 2023-A Pretrainer’s Guide to Training Data: Measuring the Effects of Data Age, Domain Coverage, Quality, & Toxicity [[paper](./papers/dataset/methods/2023-A%20Pretrainer’s%20Guide%20to%20Training%20Data-%20Measuring%20the%20Effects%20of%20Data%20Age,%20Domain%20Coverage,%20Quality,%20&%20Toxicity.pdf)]
 - 2022-SELF-INSTRUCT- Aligning Language Model with Self Generated Instructions [[paper](./papers/dataset/methods/2022-SELF-INSTRUCT-%20Aligning%20Language%20Model%20with%20Self%20Generated%20Instructions.pdf)]
 
 ## Evaluation

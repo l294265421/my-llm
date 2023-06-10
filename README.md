@@ -289,6 +289,10 @@ All about large language models
 - 2022-naacl-MetaICL- Learning to Learn In Context [[paper](./papers/fine-tune/methods/other/2022-naacl-MetaICL-%20Learning%20to%20Learn%20In%20Context.pdf)]
 - 2022-iclr-Multitask Prompted Training Enables Zero-Shot Task Generalization [[paper](./papers/fine-tune/methods/other/2022-iclr-Multitask%20Prompted%20Training%20Enables%20Zero-Shot%20Task%20Generalization.pdf)]
 
+## Prompt Learning
+- 2023-Is Prompt All You Need No. A Comprehensive and Broader View of Instruction Learning [[paper](./papers/prompt-learning/2023-Is%20Prompt%20All%20You%20Need%20No.%20A%20Comprehensive%20and%20Broader%20View%20of%20Instruction%20Learning.pdf)]
+- 2021-Pre-train, Prompt, and Predict- A Systematic Survey of Prompting Methods in Natural Language Processing [[paper](./papers/prompt-learning/2021-Pre-train,%20Prompt,%20and%20Predict-%20A%20Systematic%20Survey%20of%20Prompting%20Methods%20in%20Natural%20Language%20Processing.pdf)]
+
 ## Integrating External Data
 - 继续训练
   - 优点

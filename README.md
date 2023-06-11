@@ -256,6 +256,7 @@ All about large language models
 - 2015-mlr-Trust Region Policy Optimization [[paper](./papers/fine-tune/methods/rl/2015-mlr-Trust%20Region%20Policy%20Optimization.pdf)]
 
 ##### Reward Modeling
+- 2023-REWARD DESIGN WITH LANGUAGE MODELS [[paper](./papers/fine-tune/methods/rl/reward_modeling/2023-REWARD%20DESIGN%20WITH%20LANGUAGE%20MODELS.pdf)]
 - 2022-Scaling Laws for Reward Model Overoptimization [[paper](./papers/fine-tune/methods/rl/reward_modeling/2022-Scaling%20Laws%20for%20Reward%20Model%20Overoptimization.pdf)]
 - autocrit
   - [GitHub](https://github.com/CarperAI/autocrit/tree/contrastive-scalar-rm)

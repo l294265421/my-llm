@@ -358,6 +358,7 @@ All about large language models
 - 2022-SELF-INSTRUCT- Aligning Language Model with Self Generated Instructions [[paper](./papers/dataset/methods/2022-SELF-INSTRUCT-%20Aligning%20Language%20Model%20with%20Self%20Generated%20Instructions.pdf)]
 
 ## Evaluation
+- 2023-INSTRUCTEVAL: Towards Holistic Evaluation of Instruction-Tuned Large Language Models [[paper](./papers/evaluation/2023-INSTRUCTEVAL-%20Towards%20Holistic%20Evaluation%20of%20Instruction-Tuned%20Large%20Language%20Models.pdf)]
 - LLMZoo: a project that provides data, models, and evaluation benchmark for large language models.
   - [GitHub](https://github.com/FreedomIntelligence/LLMZoo)
 - 2023-Evaluating ChatGPT's Information Extraction Capabilities- An Assessment of Performance, Explainability, Calibration, and Faithfulness [paper](./papers/evaluation/2023-Evaluating%20ChatGPT's%20Information%20Extraction%20Capabilities-%20An%20Assessment%20of%20Performance,%20Explainability,%20Calibration,%20and%20Faithfulness.pdf)

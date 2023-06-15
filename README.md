@@ -267,6 +267,7 @@ All about large language models
 - 2021-LoRA- Low-Rank Adaptation of Large Language Models [[paper](./papers/fine-tune/methods/peft/2021-LoRA-%20Low-Rank%20Adaptation%20of%20Large%20Language%20Models.pdf)]
 
 #### align
+- 2023-Fine-Grained Human Feedback Gives Better Rewards for Language Model Training [paper](./papers/fine-tune/methods/align/2023-Fine-Grained%20Human%20Feedback%20Gives%20Better%20Rewards%20for%20Language%20Model%20Training.pdf)]
 - 2023-Chain of Hindsight Aligns Language Models with Feedback [[paper](./papers/fine-tune/methods/align/2023-Chain%20of%20Hindsight%20Aligns%20Language%20Models%20with%20Feedback.pdf)]
 - 2023-Training Socially Aligned Language Models in Simulated Human Society [[paper]](./papers/fine-tune/methods/align/2023-Training%20Socially%20Aligned%20Language%20Models%20in%20Simulated%20Human%20Society.pdf)
 - 2023-Let’s Verify Step by Step [[paper](./papers/fine-tune/methods/align/2023-Let’s%20Verify%20Step%20by%20Step.pdf)]

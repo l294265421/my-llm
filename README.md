@@ -267,6 +267,7 @@ All about large language models
 - 2021-LoRA- Low-Rank Adaptation of Large Language Models [[paper](./papers/fine-tune/methods/peft/2021-LoRA-%20Low-Rank%20Adaptation%20of%20Large%20Language%20Models.pdf)]
 
 #### align
+- 2023-Chain of Hindsight Aligns Language Models with Feedback [[paper](./papers/fine-tune/methods/align/2023-Chain%20of%20Hindsight%20Aligns%20Language%20Models%20with%20Feedback.pdf)]
 - 2023-Training Socially Aligned Language Models in Simulated Human Society [[paper]](./papers/fine-tune/methods/align/2023-Training%20Socially%20Aligned%20Language%20Models%20in%20Simulated%20Human%20Society.pdf)
 - 2023-Let’s Verify Step by Step [[paper](./papers/fine-tune/methods/align/2023-Let’s%20Verify%20Step%20by%20Step.pdf)]
 - 2023-The False Promise of Imitating Proprietary LLMs [[paper](./papers/fine-tune/methods/align/2023-The%20False%20Promise%20of%20Imitating%20Proprietary%20LLMs.pdf)]
@@ -348,6 +349,8 @@ All about large language models
 
 ### Methods
 - 2023-A Pretrainer’s Guide to Training Data: Measuring the Effects of Data Age, Domain Coverage, Quality, & Toxicity [[paper](./papers/dataset/methods/2023-A%20Pretrainer’s%20Guide%20to%20Training%20Data-%20Measuring%20the%20Effects%20of%20Data%20Age,%20Domain%20Coverage,%20Quality,%20&%20Toxicity.pdf)]
+- 2023-DoReMi: Optimizing data mixtures speeds up language model pretraining
+- 2023-Data selection for language models via importance resampling
 - 2022-SELF-INSTRUCT- Aligning Language Model with Self Generated Instructions [[paper](./papers/dataset/methods/2022-SELF-INSTRUCT-%20Aligning%20Language%20Model%20with%20Self%20Generated%20Instructions.pdf)]
 - 2022-acl-Deduplicating training data makes language models better [[paper](./papers/dataset/methods/2022-acl-Deduplicating%20training%20data%20makes%20language%20models%20better.pdf)]
 

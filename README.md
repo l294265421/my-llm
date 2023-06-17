@@ -300,6 +300,9 @@ All about large language models
 
 ## Integrating External Data
 
+### Tool Learning
+- [ToolLearningPapers](https://github.com/thunlp/ToolLearningPapers)
+
 ### Methods
 - langchain
   - GitHub

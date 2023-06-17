@@ -434,6 +434,8 @@ All about large language models
 ## Related Topics
 ### Neural Text Generation
 - 2020-ICLR-Neural text generation with unlikelihood training [[paper](./papers/related-topics/neural_text_generation/2020-ICLR-Neural%20text%20generation%20with%20unlikelihood%20training.pdf)]
+- 2021-findings-emnlp-GeDi- Generative Discriminator Guided Sequence Generation [[paper](./papers/related-topics/neural_text_generation/2021-findings-emnlp-GeDi-%20Generative%20Discriminator%20Guided%20Sequence%20Generation.pdf)]
+- 2021-ACL-DExperts- Decoding-Time Controlled Text Generation with Experts and Anti-Experts [[paper](./papers/related-topics/neural_text_generation/2021-ACL-DExperts-%20Decoding-Time%20Controlled%20Text%20Generation%20with%20Experts%20and%20Anti-Experts.pdf)]
 - 2021-ICLR-Mirostat- a neural text decoding algorithm that directly controls perplexity [[paper](./papers/related-topics/neural_text_generation/2021-ICLR-Mirostat-%20a%20neural%20text%20decoding%20algorithm%20that%20directly%20controls%20perplexity.pdf)]
 - 2022-NIPS-A Contrastive Framework for Neural Text Generation [[paper](./papers/related-topics/neural_text_generation/2022-NIPS-A%20Contrastive%20Framework%20for%20Neural%20Text%20Generation.pdf)]
 

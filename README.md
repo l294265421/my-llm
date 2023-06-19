@@ -264,6 +264,9 @@ All about large language models
 - 2022-iclr-Multitask Prompted Training Enables Zero-Shot Task Generalization [[paper](./papers/fine-tune/methods/other/2022-iclr-Multitask%20Prompted%20Training%20Enables%20Zero-Shot%20Task%20Generalization.pdf)]
 
 ## Prompt Learning
+- 2022-AC-PPT- Pre-trained Prompt Tuning for Few-shot Learning [[paper](./papers/prompt-learning/2022-AC-PPT-%20Pre-trained%20Prompt%20Tuning%20for%20Few-shot%20Learning.pdf)]
+- 2023-Prompt Pre-Training with Twenty-Thousand Classes for Open-Vocabulary Visual Recognition [[paper](./papers/prompt-learning/2023-Prompt%20Pre-Training%20with%20Twenty-Thousand%20Classes%20for%20Open-Vocabulary%20Visual%20Recognition.pdf)]
+- 2023-Tree of Thoughts: Deliberate Problem Solving with Large Language Models [[paper](./papers/prompt-learning/2023-Tree%20of%20Thoughts-%20Deliberate%20Problem%20Solving%20with%20Large%20Language%20Models.pdf)]
 - 2023-Guiding Large Language Models via Directional Stimulus Prompting [[paper](./papers/prompt-learning/2023-Guiding%20Large%20Language%20Models%20via%20Directional%20Stimulus%20Prompting.pdf)]
 - 2023-ICLR-Self-Consistency Improves Chain of Thought Reasoning in Language Models [[paper](./papers/prompt-learning/2023-ICLR-Self-Consistency%20Improves%20Chain%20of%20Thought%20Reasoning%20in%20Language%20Models.pdf)]
 - 2023-Is Prompt All You Need No. A Comprehensive and Broader View of Instruction Learning [[paper](./papers/prompt-learning/2023-Is%20Prompt%20All%20You%20Need%20No.%20A%20Comprehensive%20and%20Broader%20View%20of%20Instruction%20Learning.pdf)]

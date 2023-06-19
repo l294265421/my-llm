@@ -270,6 +270,10 @@ All about large language models
 - 2023-ICLR-Self-Consistency Improves Chain of Thought Reasoning in Language Models [[paper](./papers/prompt-learning/2023-ICLR-Self-Consistency%20Improves%20Chain%20of%20Thought%20Reasoning%20in%20Language%20Models.pdf)]
 - 2023-Is Prompt All You Need No. A Comprehensive and Broader View of Instruction Learning [[paper](./papers/prompt-learning/2023-Is%20Prompt%20All%20You%20Need%20No.%20A%20Comprehensive%20and%20Broader%20View%20of%20Instruction%20Learning.pdf)]
 - 2022-AC-PPT- Pre-trained Prompt Tuning for Few-shot Learning [[paper](./papers/prompt-learning/2022-AC-PPT-%20Pre-trained%20Prompt%20Tuning%20for%20Few-shot%20Learning.pdf)]
+- 2022-ACL-P-Tuning- Prompt Tuning Can Be Comparable to Fine-tuning Across Scales and Tasks [[paper](./papers/prompt-learning/2022-ACL-P-Tuning-%20Prompt%20Tuning%20Can%20Be%20Comparable%20to%20Fine-tuning%20Across%20Scales%20and%20Tasks.pdf)]
+- 2021-EMNLP-The Power of Scale for Parameter-Efficient Prompt Tuning [[paper](./papers/prompt-learning/2021-EMNLP-The%20Power%20of%20Scale%20for%20Parameter-Efficient%20Prompt%20Tuning.pdf)]
+- 2021-acl-Prefix-Tuning- Optimizing Continuous Prompts for Generation [[paper](./papers/prompt-learning/2021-acl-Prefix-Tuning-%20Optimizing%20Continuous%20Prompts%20for%20Generation.pdf)]
+- 2021-GPT Understands, Too [[paper](./papers/prompt-learning/2021-GPT%20Understands,%20Too.pdf)]
 - 2021-Pre-train, Prompt, and Predict- A Systematic Survey of Prompting Methods in Natural Language Processing [[paper](./papers/prompt-learning/2021-Pre-train,%20Prompt,%20and%20Predict-%20A%20Systematic%20Survey%20of%20Prompting%20Methods%20in%20Natural%20Language%20Processing.pdf)]
 
 ## Integrating External Data

@@ -18,8 +18,6 @@ All about large language models
   - [Paper](./papers/pre-train/models/2020-JMLR-Exploring%20the%20Limits%20of%20Transfer%20Learning%20with%20a%20Unified%20Text-to-Text%20Transformer.pdf)
   - Architecture
     - Encoder-Decoder
-  - Datasets
-    - C4
 - GPT
   - Paper
     - [GPT](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)
@@ -56,9 +54,6 @@ All about large language models
   - [Paper](./papers/pre-train/models/2022-PaLM-%20Scaling%20Language%20Modeling%20with%20Pathways.pdf)
   - Architecture
     - Decoder
-  - Datasets
-    - a mixture of filtered webpages, books, Wikipedia, news articles, source code, and social media conversations
-    - based on the datasets used to train LaMDA and GLaM
 - PaLM 2
   - [Blog](https://ai.google/discover/palm2)
   - [PaLM 2 Technical Report](https://ai.google/static/documents/palm2techreport.pdf)
@@ -66,37 +61,20 @@ All about large language models
   - [Paper](./papers/pre-train/models/2022-OPT-%20Open%20Pre-trained%20Transformer%20Language%20Models.pdf)
   - Architecture
     - Decoder
-  - Datasets
-    - RoBERTa datasets
-    - Pile
-    - PushShift.io Reddit
 - Gpt-neox
   - [Paper](./papers/pre-train/models/2022-Gpt-neox-20b-%20An%20open-source%20autoregressive%20language%20model.pdf)
   - [GitHub](https://github.com/EleutherAI/gpt-neox)
   - Architecture
     - Decoder
-  - Datasets
-    - Pile
 - BLOOM
   - [Paper](./papers/pre-train/models/2023-BLOOM-%20A%20176B-Parameter%20Open-Access%20Multilingual%20Language%20Model.pdf)
   - Architecture
     - Decoder
-  - Datasets
-    - the ROOTS corpus
 - LLaMA
   - [Paper](./papers/pre-train/models/2023-LLaMA-%20Open%20and%20Efficient%20Foundation%20Language%20Models.pdf)
   - [Model](https://huggingface.co/decapoda-research)
   - Architecture
     - Decoder
-  - Datasets
-    - English CommonCrawl
-    - C4
-    - Github
-    - Wikipedia
-    - Gutenberg
-    - Books3 (Pile)
-    - ArXiv
-    - Stack Exchange
 - GLM
   - Paper
     - 2022-ACL-GLM- General Language Model Pretraining with Autoregressive Blank Infilling [paper](./papers/pre-train/models/2022-ACL-GLM-%20General%20Language%20Model%20Pretraining%20with%20Autoregressive%20Blank%20Infilling.pdf)
@@ -105,21 +83,12 @@ All about large language models
       - [GitHub](https://github.com/THUDM/GLM-130B)
       - Architecture
         - Autoregressive Blank Infilling
-      - Datasets
-        - Pile
-        - Wudao Corpora
-        - 250G Chinese corpora (including online forums, encyclopedia, and QA) we crawl from the web
 - BloombergGPT
   - [Paper](./papers/pre-train/models/2023-BloombergGPT-%20A%20Large%20Language%20Model%20for%20Finance.pdf)
 - MOSS
   - [GitHub](https://github.com/OpenLMLab/MOSS)
 - OpenLLaMA: An Open Reproduction of LLaMA
   - [GitHub](https://github.com/openlm-research/open_llama)
-  - Datasets
-    - RedPajama-Data
-      - [GitHub](https://github.com/togethercomputer/RedPajama-Data)
-      - [RedPajama-Data-1T-HuggingFace](https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T)
-      - [Blog](https://www.together.xyz/blog/redpajama)
 - dolly
   - [GitHub](https://github.com/databrickslabs/dolly)
 - panda
@@ -305,6 +274,8 @@ All about large language models
 - [ToolLearningPapers](https://github.com/thunlp/ToolLearningPapers)
 
 ### Methods
+- 2023-Evaluating Verifiability in Generative Search Engines [[paper](https://arxiv.org/pdf/2304.09848.pdf)]
+- 2023-Enabling Large Language Models to Generate Text with Citations [[paper](https://arxiv.org/pdf/2305.14627.pdf)]
 - langchain
   - GitHub
     - [langchain](https://github.com/hwchase17/langchain)
@@ -315,6 +286,9 @@ All about large language models
 - 2021-Improving language models by retrieving from trillions of tokens
 - 2020-REALM: retrieval-augmented language model pre-training
 - 2020-Retrieval-augmented generation for knowledge-intensive NLP tasks
+
+### Other
+- [如何为GPT/LLM模型添加额外知识？](https://www.zhihu.com/question/591935281)
 
 ## Dataset
 ### For Pre-training

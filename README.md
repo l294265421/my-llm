@@ -466,3 +466,4 @@ All about large language models
 - [open-llms](https://github.com/eugeneyan/open-llms) A list of open LLMs available for commercial use.
 - [safe-rlhf](https://github.com/PKU-Alignment/safe-rlhf)
 - [Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
+- [Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM)

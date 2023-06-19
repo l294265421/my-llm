@@ -297,6 +297,11 @@ All about large language models
 - RedPajama-Data
   - [GitHub](https://github.com/togethercomputer/RedPajama-Data)
   - [RedPajama-Data-1T-HuggingFace](https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T)
+  - [Blog](https://www.together.xyz/blog/redpajama)
+- C4
+- Pile
+- ROOTS
+- Wudao Corpora
 - 大规模中文自然语言处理语料 Large Scale Chinese Corpus for NLP
   - [GitHub](https://github.com/brightmart/nlp_chinese_corpus)
 - CSL: A Large-scale Chinese Scientific Literature Dataset 中文科学文献数据集

@@ -258,6 +258,7 @@ All about large language models
 - 2018-Scalable agent alignment via reward modeling: a research direction [[paper](./papers/fine-tune/methods/align/2018-Scalable%20agent%20alignment%20via%20reward%20modeling-%20a%20research%20direction.pdf)]
 - Reinforcement Learning for Language Models [Blog](https://gist.github.com/yoavg/6bff0fecd65950898eba1bb321cfbd81)
 - 2017-nips-Deep reinforcement learning from human preferences [[paper](./papers/fine-tune/methods/align/2017-nips-Deep%20reinforcement%20learning%20from%20human%20preferences.pdf)]
+- 2016-Concrete problems in ai safety [[paper](./papers/fine-tune/methods/align/2016-Concrete%20problems%20in%20ai%20safety.pdf)]
 
 ### Other
 - 2022-naacl-MetaICL- Learning to Learn In Context [[paper](./papers/fine-tune/methods/other/2022-naacl-MetaICL-%20Learning%20to%20Learn%20In%20Context.pdf)]

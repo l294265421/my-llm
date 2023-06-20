@@ -458,6 +458,7 @@ All about large language models
 - [影响PPO算法性能的10个关键技巧（附PPO算法简洁Pytorch实现）](https://zhuanlan.zhihu.com/p/512327050)
 - [灌水新方向 偏好强化学习概述](https://zhuanlan.zhihu.com/p/622056740?utm_source=wechat_session&utm_medium=social&utm_oi=556103293550534656)
 - [为什么说大模型训练很难？](https://www.zhihu.com/question/498271491)
+- [如何基于深度学习大模型开展小模型的研发，如何把大模型和小模型相结合？](https://www.zhihu.com/question/594938636/answer/3081636786)
 
 ## Related Project
 - [open-llms](https://github.com/eugeneyan/open-llms) A list of open LLMs available for commercial use.

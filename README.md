@@ -136,6 +136,9 @@ All about large language models
 
 #### LR Scheduler
 
+#### 
+- 2020-Scaling Laws for Neural Language Models [[paper](https://arxiv.org/pdf/2001.08361v1.pdf)]
+
 ## Fine-tune
 ### Models
 #### General
@@ -287,16 +290,17 @@ All about large language models
 - [ToolLearningPapers](https://github.com/thunlp/ToolLearningPapers)
 
 ### Methods
+- 2023-OpenAGI: When LLM Meets Domain Experts [[paper](https://arxiv.org/abs/2304.04370)]
 - 2023-WebCPM: Interactive Web Search for Chinese Long-form Question Answering [[paper](https://arxiv.org/abs/2305.06849)]
-- 2023-Evaluating Verifiability in Generative Search Engines [[paper](https://arxiv.org/pdf/2304.09848.pdf)]
-- 2023-Enabling Large Language Models to Generate Text with Citations [[paper](https://arxiv.org/pdf/2305.14627.pdf)]
+- 2023-Evaluating Verifiability in Generative Search Engines [[paper](./papers/integrating_external_data/2023-Evaluating%20Verifiability%20in%20Generative%20Search%20Engines.pdf)]
+- 2023-Enabling Large Language Models to Generate Text with Citations [[paper](./papers/integrating_external_data/2023-Enabling%20Large%20Language%20Models%20to%20Generate%20Text%20with%20Citations.pdf)]
 - langchain
   - GitHub
     - [langchain](https://github.com/hwchase17/langchain)
     - [Chinese-LangChain](https://github.com/yanqiangmiffy/Chinese-LangChain)
 - 2023-Check Your Facts and Try Again- Improving Large Language Models with External Knowledge and Automated Feedback [[paper](./papers/integrating_external_data/2023-Check%20Your%20Facts%20and%20Try%20Again-%20Improving%20Large%20Language%20Models%20with%20External%20Knowledge%20and%20Automated%20Feedback.pdf)]
-- 2021-Webgpt: Browser-assisted question-answering with human feedback
 - 2022-Teaching language models to support answers with verified quotes
+- 2021-Webgpt: Browser-assisted question-answering with human feedback [[paper](./papers/integrating_external_data/2021-Webgpt-%20Browser-assisted%20question-answering%20with%20human%20feedback.pdf)]
 - 2021-Improving language models by retrieving from trillions of tokens
 - 2020-REALM: retrieval-augmented language model pre-training
 - 2020-Retrieval-augmented generation for knowledge-intensive NLP tasks

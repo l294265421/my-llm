@@ -281,7 +281,6 @@ All about large language models
 - 2021-acl-Prefix-Tuning- Optimizing Continuous Prompts for Generation [[paper](./papers/prompt-learning/2021-acl-Prefix-Tuning-%20Optimizing%20Continuous%20Prompts%20for%20Generation.pdf)]
 - 2021-GPT Understands, Too [[paper](./papers/prompt-learning/2021-GPT%20Understands,%20Too.pdf)]
 
-
 ## Integrating External Data
 
 ### Tool Learning
@@ -433,6 +432,9 @@ All about large language models
 - 2021-ACL-DExperts- Decoding-Time Controlled Text Generation with Experts and Anti-Experts [[paper](./papers/related-topics/neural_text_generation/2021-ACL-DExperts-%20Decoding-Time%20Controlled%20Text%20Generation%20with%20Experts%20and%20Anti-Experts.pdf)]
 - 2021-ICLR-Mirostat- a neural text decoding algorithm that directly controls perplexity [[paper](./papers/related-topics/neural_text_generation/2021-ICLR-Mirostat-%20a%20neural%20text%20decoding%20algorithm%20that%20directly%20controls%20perplexity.pdf)]
 - 2022-NIPS-A Contrastive Framework for Neural Text Generation [[paper](./papers/related-topics/neural_text_generation/2022-NIPS-A%20Contrastive%20Framework%20for%20Neural%20Text%20Generation.pdf)]
+
+#### Controllable Generation
+- 2022-ACL-Length Control in Abstractive Summarization by Pretraining Information Selection [[paper](./papers/related-topics/neural_text_generation/controllable_generation/2022-ACL-Length%20Control%20in%20Abstractive%20Summarization%20by%20Pretraining%20Information%20Selection.pdf)]
 
 ### Distributed Training
 - [Pytorch 分布式训练](https://zhuanlan.zhihu.com/p/76638962)

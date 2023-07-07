@@ -388,6 +388,7 @@ All about large language models
 ## Analysis
 - Pythia: Interpreting Autoregressive Transformers Across Time and Scale 
   - [GitHub](https://github.com/EleutherAI/pythia)
+- 2023-Inspecting and Editing Knowledge Representations in Language Models [[paper](https://arxiv.org/abs/2304.00740)]
 
 ## Products
 - [ChatGPT](https://chat.openai.com/)

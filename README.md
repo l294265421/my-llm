@@ -239,6 +239,7 @@ All about large language models
 - 2021-LoRA- Low-Rank Adaptation of Large Language Models [[paper](./papers/fine-tune/methods/peft/2021-LoRA-%20Low-Rank%20Adaptation%20of%20Large%20Language%20Models.pdf)]
 
 #### align
+- 2023-Preference Ranking Optimization for Human Alignment [[paper](https://arxiv.org/pdf/2306.17492.pdf)]
 - 2023-Is Reinforcement Learning (Not) for Natural Language Processing: Benchmarks, Baselines, and Building Blocks for Natural Language Policy Optimization [[paper](./papers/fine-tune/methods/align/2023-ICLR-Is%20Reinforcement%20Learning%20(Not)%20for%20Natural%20Language%20Processing-%20Benchmarks,%20Baselines,%20and%20Building%20Blocks%20for%20Natural%20Language%20Policy%20Optimization.pdf)]
 - 2023-Fine-Grained Human Feedback Gives Better Rewards for Language Model Training [paper](./papers/fine-tune/methods/align/2023-Fine-Grained%20Human%20Feedback%20Gives%20Better%20Rewards%20for%20Language%20Model%20Training.pdf)]
 - 2023-Chain of Hindsight Aligns Language Models with Feedback [[paper](./papers/fine-tune/methods/align/2023-Chain%20of%20Hindsight%20Aligns%20Language%20Models%20with%20Feedback.pdf)]

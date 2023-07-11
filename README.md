@@ -300,6 +300,8 @@ All about large language models
 - 2023-WebCPM: Interactive Web Search for Chinese Long-form Question Answering [[paper](https://arxiv.org/abs/2305.06849)]
 - 2023-Evaluating Verifiability in Generative Search Engines [[paper](./papers/integrating_external_data/2023-Evaluating%20Verifiability%20in%20Generative%20Search%20Engines.pdf)]
 - 2023-Enabling Large Language Models to Generate Text with Citations [[paper](./papers/integrating_external_data/2023-Enabling%20Large%20Language%20Models%20to%20Generate%20Text%20with%20Citations.pdf)]
+- 2022-ACL-Lifelong Pretraining: Continually Adapting Language Models to Emerging Corpora [[paper](https://aclanthology.org/2022.bigscience-1.1.pdf)]
+- 2022-findings-acl-ELLE: Efficient Lifelong Pre-training for Emerging Data  [[paper](https://aclanthology.org/2022.findings-acl.220.pdf)]
 - langchain
   - GitHub
     - [langchain](https://github.com/hwchase17/langchain)

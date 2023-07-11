@@ -96,6 +96,10 @@ All about large language models
   - [Paper](./papers/pre-train/models/2023-Panda%20LLM-%20Training%20Data%20and%20Evaluation%20for%20Open-Sourced%20Chinese%20Instruction-Following%20Large%20Language%20Models.pdf)
 - WeLM
   - [Paper](./papers/pre-train/models/2022-WeLM-%20A%20Well-Read%20Pre-trained%20Language%20Model%20for%20Chinese.pdf)
+- Baichuan
+  - [Baichuan-7B](https://github.com/baichuan-inc/Baichuan-7B)
+  - [Baichuan-13B](https://github.com/baichuan-inc/Baichuan-13B)
+
 
 ### Survey
 - 2023-A Survey of Large Language Models [[paper](https://arxiv.org/abs/2303.18223)]

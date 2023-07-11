@@ -430,6 +430,7 @@ All about large language models
 - [Megatron-LM](https://github.com/NVIDIA/Megatron-LM)
 - [trlx](https://github.com/CarperAI/trlx)
 - [trl](https://github.com/lvwerra/)
+- [MOSS-RLHF](https://github.com/OpenLMLab/MOSS-RLHF)
 
 ## Traditional Nlp Tasks
 - 2023-AnnoLLM- Making Large Language Models to Be Better Crowdsourced Annotators [[paper](./papers/traditional_nlp_tasks/2023-AnnoLLM-%20Making%20Large%20Language%20Models%20to%20Be%20Better%20Crowdsourced%20Annotators.pdf)]

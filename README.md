@@ -443,6 +443,9 @@ All about large language models
 - 2023-Llms to the moon? reddit market sentiment analysis with large language models
 - 2023-Is GPT-3 a Good Data Annotator? [[paper](https://arxiv.org/abs/2212.10450)]
 
+### Weak Supervision
+- 2022-Language models in the loop: Incorporating prompting into weak supervision [[paper](https://arxiv.org/abs/2205.02318)]
+
 ## Related Topics
 ### Neural Text Generation
 - 2020-ICLR-Neural text generation with unlikelihood training [[paper](./papers/related-topics/neural_text_generation/2020-ICLR-Neural%20text%20generation%20with%20unlikelihood%20training.pdf)]

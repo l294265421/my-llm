@@ -441,6 +441,7 @@ All about large language models
 - 2023-Can chatgpt understand too? A comparative study on chatgpt and fine-tuned BERT
 - 2023-Is chatgpt a good sentiment analyzer? A preliminary study
 - 2023-Llms to the moon? reddit market sentiment analysis with large language models
+- 2023-Is GPT-3 a Good Data Annotator? [[paper](https://arxiv.org/abs/2212.10450)]
 
 ## Related Topics
 ### Neural Text Generation

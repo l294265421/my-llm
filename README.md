@@ -100,6 +100,8 @@ All about large language models
   - [Baichuan-7B](https://github.com/baichuan-inc/Baichuan-7B)
   - [Baichuan-13B](https://github.com/baichuan-inc/Baichuan-13B)
 
+- Llama 2
+  - [site](https://ai.meta.com/resources/models-and-libraries/llama/)
 
 ### Survey
 - 2023-A Survey of Large Language Models [[paper](https://arxiv.org/abs/2303.18223)]

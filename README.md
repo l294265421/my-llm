@@ -102,6 +102,7 @@ All about large language models
 
 - Llama 2
   - [site](https://ai.meta.com/resources/models-and-libraries/llama/)
+  - [paper](./papers/pre-train/models/2023-Llama%202%20Open%20Foundation%20and%20Fine-Tuned%20Chat%20Models.pdf)
 
 ### Survey
 - 2023-A Survey of Large Language Models [[paper](https://arxiv.org/abs/2303.18223)]

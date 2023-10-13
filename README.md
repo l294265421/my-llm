@@ -369,6 +369,7 @@ All about large language models
 - 2022-acl-Deduplicating training data makes language models better [[paper](./papers/dataset/methods/2022-acl-Deduplicating%20training%20data%20makes%20language%20models%20better.pdf)]
 
 ## Evaluation
+- 2023-findings-acl-Few-shot Fine-tuning vs. In-context Learning: A Fair Comparison and Evaluation [paper](https://aclanthology.org/2023.findings-acl.779/)
 - 2023-Harnessing the Power of LLMs in Practice- A Survey on ChatGPT and Beyond [[paper](./papers/evaluation/2023-Harnessing%20the%20Power%20of%20LLMs%20in%20Practice-%20A%20Survey%20on%20ChatGPT%20and%20Beyond.pdf)]
 - 2023-INSTRUCTEVAL: Towards Holistic Evaluation of Instruction-Tuned Large Language Models [[paper](./papers/evaluation/2023-INSTRUCTEVAL-%20Towards%20Holistic%20Evaluation%20of%20Instruction-Tuned%20Large%20Language%20Models.pdf)]
 - LLMZoo: a project that provides data, models, and evaluation benchmark for large language models.

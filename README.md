@@ -105,6 +105,7 @@ All about large language models
   - [paper](./papers/pre-train/models/2023-Llama%202%20Open%20Foundation%20and%20Fine-Tuned%20Chat%20Models.pdf)
 
 ### Survey
+- 2023-Challenges and Applications of Large Language Models [paper](https://arxiv.org/abs/2307.10169)
 - 2023-A Survey of Large Language Models [[paper](https://arxiv.org/abs/2303.18223)]
 
 ### Methods

@@ -15,98 +15,8 @@ All about large language models
 ## Survey
 - 2023-Challenges and Applications of Large Language Models [paper](./papers/survey/2023-Challenges%20and%20Applications%20of%20Large%20Language%20Models.pdf)
 
-
 ## Pre-train
-### Models
-- T5
-  - [Paper](./papers/pre-train/models/2020-JMLR-Exploring%20the%20Limits%20of%20Transfer%20Learning%20with%20a%20Unified%20Text-to-Text%20Transformer.pdf)
-  - Architecture
-    - Encoder-Decoder
-- GPT
-  - Paper
-    - [GPT](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)
-    - [GPT-2](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
-    - [GPT-3](https://arxiv.org/pdf/2005.14165.pdf)
-- GPT-Neo
-- GPT-J-6B
-- Megatron-11B
-- Pangu-a-13B
-- FairSeq
-- GLaM
-  - [Paper](./papers/pre-train/models/2022-ICML-GLaM-%20Efficient%20Scaling%20of%20Language%20Models%20with%20Mixture-of-Experts.pdf)
-- LaMDA
-  - [Paper](./papers/pre-train/models/2022-LaMDA-%20Language%20Models%20for%20Dialog%20Applications.pdf)
-- JURASSIC-1
-  - [Paper](https://uploads-ssl.webflow.com/60fd4503684b466578c0d307/61138924626a6981ee09caf6_jurassic_tech_paper.pdf)
-- MT-NLG
-  - [Paper](https://arxiv.org/pdf/2201.11990.pdf)
-- ERNIE
-  - Paper
-    - [ERNIE](https://arxiv.org/pdf/1904.09223.pdf)
-    - [ERNIE 2.0](https://arxiv.org/pdf/1907.12412.pdf)
-    - [ERNIE 3.0](./papers/pre-train/models/2021-ERNIE%203.0-%20LARGE-SCALE%20KNOWLEDGE%20ENHANCED%20PRE-TRAINING%20FOR%20LANGUAGE%20UNDERSTANDING%20AND%20GENERATION.pdf)
-- Gopher
-  - [Paper](./papers/pre-train/models/2021-Scaling%20Language%20Models-%20Methods,%20Analysis%20&%20Insights%20from%20Training%20Gopher.pdf)
-  - Conclusion
-    - Gains from scale are largest in areas such as reading comprehension, fact-checking, and the identification of toxic language, but logical and mathematical reasoning see less benefit.
-- Chinchilla
-  - [Paper](./papers/pre-train/models/2022-Training%20Compute-Optimal%20Large%20Language%20Models.pdf)
-  - Conclusion
-    - We find that current large language models are significantly under trained, a consequence of the recent focus on scaling language models whilst keeping the amount of training data constant.
-    - we find that for compute-optimal training, the model size and the number of training tokens should be scaled equally: for every doubling of model size the number of training tokens should also be doubled.
-- PaLM
-  - [Paper](./papers/pre-train/models/2022-PaLM-%20Scaling%20Language%20Modeling%20with%20Pathways.pdf)
-  - Architecture
-    - Decoder
-- PaLM 2
-  - [Blog](https://ai.google/discover/palm2)
-  - [PaLM 2 Technical Report](https://ai.google/static/documents/palm2techreport.pdf)
-- OPT
-  - [Paper](./papers/pre-train/models/2022-OPT-%20Open%20Pre-trained%20Transformer%20Language%20Models.pdf)
-  - Architecture
-    - Decoder
-- Gpt-neox
-  - [Paper](./papers/pre-train/models/2022-Gpt-neox-20b-%20An%20open-source%20autoregressive%20language%20model.pdf)
-  - [GitHub](https://github.com/EleutherAI/gpt-neox)
-  - Architecture
-    - Decoder
-- BLOOM
-  - [Paper](./papers/pre-train/models/2023-BLOOM-%20A%20176B-Parameter%20Open-Access%20Multilingual%20Language%20Model.pdf)
-  - Architecture
-    - Decoder
-- LLaMA
-  - [Paper](./papers/pre-train/models/2023-LLaMA-%20Open%20and%20Efficient%20Foundation%20Language%20Models.pdf)
-  - [Model](https://huggingface.co/decapoda-research)
-  - Architecture
-    - Decoder
-- GLM
-  - Paper
-    - 2022-ACL-GLM- General Language Model Pretraining with Autoregressive Blank Infilling [paper](./papers/pre-train/models/2022-ACL-GLM-%20General%20Language%20Model%20Pretraining%20with%20Autoregressive%20Blank%20Infilling.pdf)
-      - [GitHub](https://github.com/THUDM/GLM)
-    - 2023-ICLR-GLM-130B- An Open Bilingual Pre-trained Model [paper](./papers/pre-train/models/2023-ICLR-GLM-130B-%20An%20Open%20Bilingual%20Pre-trained%20Model.pdf)
-      - [GitHub](https://github.com/THUDM/GLM-130B)
-      - Architecture
-        - Autoregressive Blank Infilling
-- BloombergGPT
-  - [Paper](./papers/pre-train/models/2023-BloombergGPT-%20A%20Large%20Language%20Model%20for%20Finance.pdf)
-- MOSS
-  - [GitHub](https://github.com/OpenLMLab/MOSS)
-- OpenLLaMA: An Open Reproduction of LLaMA
-  - [GitHub](https://github.com/openlm-research/open_llama)
-- dolly
-  - [GitHub](https://github.com/databrickslabs/dolly)
-- panda
-  - [GitHub](https://github.com/dandelionsllm/pandallm)
-  - [Paper](./papers/pre-train/models/2023-Panda%20LLM-%20Training%20Data%20and%20Evaluation%20for%20Open-Sourced%20Chinese%20Instruction-Following%20Large%20Language%20Models.pdf)
-- WeLM
-  - [Paper](./papers/pre-train/models/2022-WeLM-%20A%20Well-Read%20Pre-trained%20Language%20Model%20for%20Chinese.pdf)
-- Baichuan
-  - [Baichuan-7B](https://github.com/baichuan-inc/Baichuan-7B)
-  - [Baichuan-13B](https://github.com/baichuan-inc/Baichuan-13B)
-
-- Llama 2
-  - [site](https://ai.meta.com/resources/models-and-libraries/llama/)
-  - [paper](./papers/pre-train/models/2023-Llama%202%20Open%20Foundation%20and%20Fine-Tuned%20Chat%20Models.pdf)
+### [Models](./papers/pre-train/models/models.MD) 
 
 ### Survey
 - 2023-A Survey of Large Language Models [[paper](https://arxiv.org/abs/2303.18223)]
@@ -147,7 +57,7 @@ All about large language models
 
 #### LR Scheduler
 
-#### 
+#### Scaling Laws
 - 2020-Scaling Laws for Neural Language Models [[paper](https://arxiv.org/pdf/2001.08361v1.pdf)]
 
 ## Fine-tune

@@ -91,3 +91,5 @@
   - [Technical Report](./2023-Qwen%20Technical%20Report.pdf)
 - Chameleon
   - [paper](./2024-Chameleon%20Mixed-Modal%20Early-Fusion%20Foundation%20Models.pdf)
+- Mixtral 
+  - [paper](./2024-Mixtral%20of%20Experts.pdf)

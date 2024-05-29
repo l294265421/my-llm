@@ -89,3 +89,5 @@
   - [paper](./2023-Llama%202%20Open%20Foundation%20and%20Fine-Tuned%20Chat%20Models.pdf)
 - Qwen
   - [Technical Report](./2023-Qwen%20Technical%20Report.pdf)
+- Chameleon
+  - [paper](./2024-Chameleon%20Mixed-Modal%20Early-Fusion%20Foundation%20Models.pdf)
